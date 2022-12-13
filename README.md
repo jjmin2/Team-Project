@@ -4,7 +4,6 @@
 #### It uses an object sizing machine to measure the size of the car and determines whether the car can pass through any tunnel or section.
 ---
 ## Result image
-Car height meter result image:
 ![car_height](example_01.gif)
 ---
 ## **Requirements:**
